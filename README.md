@@ -52,7 +52,7 @@ Sigue estos pasos para ejecutar la aplicación en tu máquina:
 
 2.  **Clonar el Repositorio:**
     ```bash
-    git clone https://github.com/Dannypatt/flask-ticket-analyzer.git
+    git clone https://github.com/jbaricot/flask-ticket-analyzer.git
     cd flask-ticket-analyzer
     ```
 
